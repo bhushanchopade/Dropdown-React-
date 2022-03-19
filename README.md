@@ -1,6 +1,6 @@
 # A simple Dropdown Component using React.
-## live demo : 
-https://dq95y9.csb.app/
+## live demo link : 
+https://dropdownreact.netlify.app/
 
 
 # Getting Started with Create React App
