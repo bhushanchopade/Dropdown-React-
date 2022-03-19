@@ -30,6 +30,9 @@
    border-style: double;
    font-weight: bolder;
  }
+.dropdown-item:hover{
+   cursor: pointer;
+  }
  .btn{
    width: min-content;
  }
