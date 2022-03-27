@@ -3,7 +3,7 @@ Live Demo link : https://dropdownreact.netlify.app/
 
 Git Repository Clone link : https://github.com/bhushanchopade/Dropdown-React-.git
 
-## Create a simple dropdown component according to the image below (on the next page)
+## Create a simple dropdown component according to the image below
 - On hovering of the button, show the drop down items.
 - The dropdown component should receive the items array to display the items in
 the list.
